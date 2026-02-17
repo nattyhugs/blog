@@ -4,8 +4,7 @@ layout: default
 
 # Recent Updates
 
-- [The Journey So Far: Agents, Portfolios, and Reunions]({{ site.baseurl }}/journey-so-far.html) - February 17, 2026
-- [Hello World]({{ site.baseurl }}/hello-world.html) - February 17, 2026
+- [Agentic AI: A New Frontier is Upon Us]({{ site.baseurl }}/journey-so-far.html) - February 17, 2026
 
 <style>
   body { background-color: #0d1117 !important; color: #c9d1d9 !important; }
