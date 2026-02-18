@@ -16,9 +16,9 @@ That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" mom
 ## The Chassis: From CLI to Telegram
 If a model is a Ferrari engine, it spent years on a stand in the garage. The Agentic Shift is what happens when you put that engine in a chassis and take it out on the street.
 
-Frameworks like **OpenClaw** provided that chassis. By giving the model a shell, a file system, and a browser, we moved from "chatting" to "executing." 
+Frameworks like **OpenClaw** provided that chassis. OpenClaw is an open-source agentic framework that serves as a highly extensible alternative to tools like Claude Code. It allows a model to hook into multiple LLMs simultaneously: whether through remote APIs like Anthropic, Google, and OpenAI, or locally hosted models. Crucially, it provides longevity and identity to the agent, allowing it to maintain state and carry out autonomous work over days and weeks.
 
-The shift has been so complete that I no longer use the CLI. My entire workflow now lives in **Telegram**. I provide high-level intent, and my agent handles the rest. The most significant "wow" moment was watching it handle the end-to-end launch of a family reunion website with data persistence. This was a highly ambiguous task that I expected would require manual intervention at several points. Instead, the agent autonomously navigated the entire process (including purchasing the domain name using a card with a strictly limited balance).
+The shift has been so complete that I no longer use the standard CLI for this work. My entire workflow now lives in **Telegram**. I provide high-level intent, and my agent handles the rest. The most significant "wow" moment was watching it handle the end-to-end launch of a family reunion website with data persistence. This was a highly ambiguous task that I expected would require manual intervention at several points. Instead, the agent autonomously navigated the entire process (including purchasing the domain name using a card with a strictly limited balance).
 
 ## A Digitally Native Partner
 This is more than just a coding assistant: it has become a highly capable, digitally native partner that handles a broad spectrum of job functions:
