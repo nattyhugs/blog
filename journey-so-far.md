@@ -4,13 +4,13 @@ layout: default
 # The Agentic Frontier: The Journey So Far
 *February 17, 2026*
 
-The last three weeks have been the most productive of my life. There's been a convergence of forces that have finally **unhobbled** artificial intelligence. Intelectually I knew this autonomous AI was in the making, but I've been shocked by the force with which it arrived seemingly all at once. 
+The last three weeks have been the most productive of my life. There's been a convergence of forces that have finally **unhobbled** artificial intelligence. Intellectually I knew this autonomous AI was in the making, but I've been shocked by the force with which it arrived seemingly all at once. 
 
 These reflections are born from my experience developing and deploying an **OpenClaw** agent; my insights are further informed by my professional experiences building and deploying similar agentic systems internally at Amazon. 
 
 OpenClaw is an open-source agentic framework that serves as a highly extensible alternative to products like Claude Code. It can be run locally or in a remote VM. It allows a model to hook into multiple LLMs simultaneously: whether through remote APIs like Anthropic, Google, and OpenAI, or locally hosted models. Crucially, it provides longevity and identity to the agent, allowing it to maintain state and carry out autonomous work over days and weeks.
 
-I have invested the time and energey required to unlock OpenClaw's true potential, crossing a critical threshold: I have moved very quickly from being an administrator of the agent to being its orchestrator. Today, under 5% of my time spent dealing with the agent is spent on administrative overhead (manual config updates, etc) and the other 95%+ on high-level leverage. 
+I have invested the time and energy required to unlock OpenClaw's true potential, crossing a critical threshold: I have moved very quickly from being an administrator of the agent to being its orchestrator. Today, under 5% of my time spent dealing with the agent is spent on administrative overhead (manual config updates, etc) and the other 95%+ on high-level leverage. 
 
 ## The Rubicon: From AI Plateau to Agency
 
@@ -30,7 +30,7 @@ The most significant "wow" moment was watching it handle the end-to-end launch o
 This is more than just a coding assistant or task management software: it has become a highly capable, digitally native worker that handles a broad spectrum of job functions:
 - **Operations & Infrastructure:** The agent manages my GCloud environment by monitoring billing, optimizing costs, and consolidating redundant infrastructure autonomously.
 - **Executive Support:** It acts as an executive assistant, managing day-to-day friction across email, calendar, and social media platforms.
-- **Strategic Oversight:** It proactively manages my Singularity Fund, which is an experimental investment portfolio tracking my "Energy = Intelligence" thesis. It rebalances the portfolio and looks for new opportunities to strengthen its postisions in adherence to my investing philosophy.
+- **Strategic Oversight:** It proactively manages my Singularity Fund, which is an experimental investment portfolio tracking my "Energy = Intelligence" thesis. It rebalances the portfolio and looks for new opportunities to strengthen its positions in adherence to my investing philosophy.
 - **Self-Maintenance:** One of the most critical unlocks is the agent’s ability to self-improve. In multiple domains, it audits its own performance; it updates its long-term memory and auto pushes its own configuration updates to Github.
 
 ## The Path Forward
