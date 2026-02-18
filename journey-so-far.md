@@ -13,12 +13,12 @@ The leverage is enormous. It is one thing to have an agent performing complex ta
 ## The Rubicon: From Pre-training to Agency
 For much of 2025, I had reservations about whether scaling log-linear pre-training alone would deliver the stepwise improvements we were promised. While OpenAI's **o3** offered a glimpse of the future, the subsequent months felt like a plateau. The lack of a major leap throughout the summer signaled that diminishing returns in pre-training were becoming a reality. 
 
-That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" moment. It moved the model from a sophisticated tool for code generation to a semi-autonomous engineering peer—one that simply lacks its own goals and direction. It became clear that the multiplicative scaling of test-time compute was indeed enough to cross the Rubicon. The engine was finally ready.
+That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" moment. It moved the model from a sophisticated tool for code generation to a semi-autonomous engineering peer: one that simply lacks its own goals and direction. It became clear that the multiplicative scaling of test-time compute was indeed enough to cross the Rubicon. The engine was finally ready.
 
 ## The Chassis: Real-World Execution
 If a model is a Ferrari engine, it spent years on a stand in the garage. The Agentic Shift is what happens when you put that engine in a chassis and take it out on the street.
 
-Frameworks like **OpenClaw** provided that chassis. OpenClaw is an open-source agentic framework that serves as a highly extensible alternative to tools like Claude Code. It allows a model to hook into multiple LLMs simultaneously: whether through remote APIs like Anthropic, Google, and OpenAI, or locally hosted models. Crucially, it provides longevity and identity to the agent, allowing it to maintain state and carry out autonomous work over days and weeks.
+Frameworks like **OpenClaw** provided that chassis. OpenClaw is an open-source agentic framework that serves as a highly extensible alternative to products like Claude Code. It allows a model to hook into multiple LLMs simultaneously: whether through remote APIs like Anthropic, Google, and OpenAI, or locally hosted models. Crucially, it provides longevity and identity to the agent, allowing it to maintain state and carry out autonomous work over days and weeks.
 
 Because the system is now robust enough to manage itself, my entire workflow has migrated to **Telegram**. I provide high-level intent, and my agent handles the rest. The most significant "wow" moment was watching it handle the end-to-end launch of a family reunion website with data persistence. This was a highly ambiguous task that I expected would require manual intervention at several points. Instead, the agent autonomously navigated the entire process (including purchasing the domain name using a card with a strictly limited balance).
 
@@ -31,8 +31,6 @@ This is more than just a coding assistant: it has become a highly capable, digit
 
 ## The Path Forward
 Frontiers are inherently unknown. That reality can be nerve-wracking, but we have to lean into the excitement of the possibility. We are all essentially explorers now, forced to become pioneers in a landscape where the destination is not yet clear. While the unknowns are many, the core truth is that this technology represents a massive, unprecedented boost to human agency. Those who choose to learn these frameworks aren't just using a tool: they are expanding the boundaries of what they can achieve.
-
-It’s agentic, it’s autonomous, and it is just beginning.
 
 ---
 *Energy = Intelligence*
