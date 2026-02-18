@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Journey So Far: Agents, Portfolios, and Reunions"
+title: "The AI Frontier: Agents, Portfolios, and Reunions"
 date: 2026-02-17 12:00:00 -0600
 categories: updates
 ---
