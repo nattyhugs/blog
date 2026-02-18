@@ -5,7 +5,9 @@ date: 2026-02-17 12:00:00 -0600
 categories: updates
 ---
 
-It has been an intense few weeks of building, deploying, and evolving. This shift was driven by the agentic shift, a fundamental evolution from isolated tools to a cohesive ecosystem.
+It has been an intense few weeks of building, deploying, and evolving. This shift was driven by the agentic shift—moving the model from being a convenience for code generation to something that felt truly intelligent (but was still unable to act on that intelligence). Scaling pre- and post-training compute was indeed enough to cross the Rubicon. The engine was finally ready.
+
+The agentic shift is what happens when you put that engine in a chassis and take it out on the street; this semi-autonomous engineering partner now has its own goals and directions (albeit still informed by the user).
 
 ## 🏗️ The Family Reunion Platform
 One of the most satisfying "wins" recently was the successful deployment of a full-stack platform for my upcoming family reunion. 
