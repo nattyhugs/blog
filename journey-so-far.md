@@ -13,7 +13,7 @@ The leverage is enormous. It is one thing to have an agent performing complex ta
 ## The Rubicon: From Pre-training to Agency
 For much of 2025, I had reservations about whether scaling log-linear pre-training alone would deliver the stepwise improvements we were promised. While OpenAI's **o3** offered a glimpse of the future, the subsequent months felt like a plateau. The lack of a major leap throughout the summer signaled that diminishing returns in pre-training were becoming a reality. 
 
-That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" moment. It moved the model from a sophisticated tool to a semi-autonomous engineering peer. It became clear that the "intelligence" ceiling is much higher than we thought: test-time compute in domains with well-defined outcomes follows its own log-linear scaling laws. The engine was finally ready.
+That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" moment. It moved the model from a sophisticated tool for code generation to a semi-autonomous engineering peer—one that simply lacks its own goals and direction. It became clear that the multiplicative scaling of test-time compute was indeed enough to cross the Rubicon. The engine was finally ready.
 
 ## The Chassis: Real-World Execution
 If a model is a Ferrari engine, it spent years on a stand in the garage. The Agentic Shift is what happens when you put that engine in a chassis and take it out on the street.
