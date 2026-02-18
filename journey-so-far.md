@@ -8,15 +8,15 @@ The last three weeks have been the most productive of my life. There's been a co
 
 These reflections are born from my experience developing and deploying an **OpenClaw** agent; my insights are further informed by my professional experiences building and deploying similar agentic systems internally at Amazon. 
 
-OpenClaw is an open-source agentic framework that serves as a highly extensible alternative to products like Claude Code. It can be run locally or in a remote VM. It allows a model to hook into multiple LLMs simultaneously: whether through remote APIs like Anthropic, Google, and OpenAI, or locally hosted models. Crucially, it provides longevity and identity to the agent, allowing it to maintain state and carry out autonomous work over days and weeks.
+OpenClaw is an open-source agentic framework that serves as a highly extensible alternative to products like Claude Code. It can be run locally or in a remote VM. It allows the agent to hook into multiple LLMs simultaneously: whether through remote APIs like Anthropic, Google, and OpenAI, or locally hosted models. Crucially, it provides longevity and identity to the agent, allowing it to maintain state and carry out autonomous work over days and weeks.
 
-I have invested the time and energy required to unlock OpenClaw's true potential, crossing a critical threshold: I have moved very quickly from being an administrator of the agent to being its orchestrator. Today, under 5% of my time spent dealing with the agent is spent on administrative overhead (manual config updates, etc) and the other 95%+ on high-level leverage. 
+I have invested the time and energy required to unlock OpenClaw's true potential, crossing a critical threshold: I have moved very quickly from being an administrator of the agent to being its orchestrator. Today, under 5% of my time spent with the agent is on administrative overhead (explicit config updates, etc) and the other 95%+ on orchestrating the agent's work. 
 
 ## The Rubicon: From AI Plateau to Agency
 
 For much of 2025, I had reservations about whether scaling log-linearly alone would deliver the stepwise improvements we were promised. While OpenAI's **o3** offered a glimpse of the future, the subsequent months felt like a plateau. The lack of a major leap throughout the summer signaled that diminishing returns in pre-training were becoming a reality. 
 
-That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" moment. It moved the model from convenient code generation to something that felt intelligent. It became clear that the two-front scaling of pre-training and test-time compute were enough after all.
+That changed with the release of **Claude Opus 4.5**. This was the "Rubicon" moment. It moved the model from convenient code generation to something that felt intelligent. It became clear that the two-front scaling of pre-training and test-time compute were going to deliver.
 
 ## The Chassis: Real-World Execution
 
