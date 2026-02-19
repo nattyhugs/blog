@@ -30,7 +30,7 @@ The most significant "wow" moment was watching it handle the end-to-end launch o
 This is more than just a coding assistant or task management software: it has become a highly capable, digitally native worker that handles a broad spectrum of job functions:
 - **Operations & Infrastructure:** The agent manages my GCloud environment by monitoring billing, optimizing costs, and consolidating redundant infrastructure autonomously.
 - **Executive Support:** It acts as an executive assistant, managing day-to-day friction across email, calendar, and social media platforms.
-- **Strategic Oversight:** It assists in managing an experimental investment portfolio (currently auditing performance via a paper trading account), helping to track positions and surfacing relevant news in adherence to my investing philosophy.
+- **Strategic Oversight:** The agent actively executes an experimental investment strategy we co-developed. It monitors the portfolio for drift, rebalances positions to stay within our defined risk framework, and identifies new opportunities aligned with our long-term thesis (currently auditing this entire workflow via a paper trading account).
 - **Self-Maintenance:** One of the most critical unlocks is the agent’s ability to self-improve. In multiple domains, it audits its own performance; it updates its long-term memory and auto pushes its own configuration updates to Github.
 
 ## The Path Forward
