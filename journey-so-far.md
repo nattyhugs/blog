@@ -30,13 +30,12 @@ The most significant "wow" moment was watching it handle the end-to-end launch o
 This is more than just a coding assistant or task management software: it has become a highly capable, digitally native worker that handles a broad spectrum of job functions:
 - **Operations & Infrastructure:** The agent manages my GCloud environment by monitoring billing, optimizing costs, and consolidating redundant infrastructure autonomously.
 - **Executive Support:** It acts as an executive assistant, managing day-to-day friction across email, calendar, and social media platforms.
-- **Strategic Oversight:** It proactively manages my Singularity Fund, which is an experimental investment portfolio tracking my "Energy = Intelligence" thesis. It rebalances the portfolio and looks for new opportunities to strengthen its positions in adherence to my investing philosophy.
+- **Strategic Oversight:** It assists in managing an experimental investment portfolio (currently auditing performance via a paper trading account), helping to track positions and surfacing relevant news in adherence to my investing philosophy.
 - **Self-Maintenance:** One of the most critical unlocks is the agent’s ability to self-improve. In multiple domains, it audits its own performance; it updates its long-term memory and auto pushes its own configuration updates to Github.
 
 ## The Path Forward
 Frontiers are inherently unknown. That reality can be nerve-wracking, but we have to lean into the excitement of the possibility. We are all essentially explorers now, forced to become pioneers in a landscape where the destination is not yet clear. While there are many unknowns, this technology represents a massive, unprecedented boost to human agency. Those who choose to learn these frameworks aren't just using a tool: they are expanding the boundaries of what they can achieve.
 
 ---
-*Energy = Intelligence*
 
 [Back to Blog]({{ site.baseurl }}/)
